@@ -1,40 +1,77 @@
-# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+Register no:212223060199
+Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+Apparatus Required
+Python 3.x
+ChatGPT (OpenAI API / Web Interface)
+Command-Line Interface (CLI) or simple chatbot interface
+Text editor (VS Code / PyCharm)
+GitHub for version control and repository upload
+Procedure
+Define Core Requirements
 
-# Date:
-# Register no.
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+Daily task management (add, view, delete, prioritize tasks).
+Scheduling reminders using natural language.
+Suggesting wellness tips.
+Answering general queries.
+Adaptive response system (preference learning).
+Construct Prompts for Each Feature
 
-#AI Tools Required: 
+Task Manager
+“Remind me to call mom at 6 PM.”
+“Show me my pending tasks for today.”
+Scheduler
+“Add a meeting with the robotics team at 3 PM.”
+“Do I have any free slots this afternoon?”
+Wellness Tips
+“Give me a quick wellness tip for today.”
+“Suggest a short break activity for relaxation.”
+General Queries
+“What’s the weather tomorrow at 9 AM?”
+“Summarize my week’s schedule in 3 bullet points.”
+Simulate User Interaction
 
+Implement a simple chatbot/CLI where user inputs queries.
+ChatGPT processes the prompt and provides structured outputs.
+Collect Feedback & Adapt Responses
 
-# Explanation: 
-Prompt:
-"Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
-Procedure:
-1. Define the core requirements of a personal productivity assistant.
-2. Identify and construct appropriate prompts for each task using an LLM (e.g., ChatGPT).
-3. Simulate natural user interaction through a simple interface or command-line system.
-4. Collect feedback or inputs from users and adapt responses accordingly.
-5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: - (attached the drive link)
-Output (Example Response by LLM):
+Example: If the user rejects a wellness suggestion, the assistant adapts next time.
+Maintain a local memory file (JSON/CSV) for preferences.
+(Optional) Integrate Basic Memory
+
+Store user interaction data.
+Adapt tasks and suggestions automatically in future prompts.
+Expected Output
+Example LLM Response
 Personal Productivity Assistant Features:
-1. Daily Task Manager:
-o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
-o Organize tasks by priority and deadline.
-o Provide daily summaries and pending items.
-2. Smart Scheduler:
-o Schedule events and set reminders using contextual understanding.
-o Notify user of overlapping appointments or free time slots.
-3. Wellness Tips Generator:
-o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
-o Adapt suggestions based on past user preferences and responses.
 
+✅ Daily Task Manager
 
+Accepts natural language tasks (“Remind me to call mom at 6 PM”).
+Organizes by priority & deadline.
+Provides daily summaries.
+✅ Smart Scheduler
 
-# Result: 
+Context-aware event scheduling.
+Detects conflicts/overlaps.
+Suggests free time slots.
+✅ Wellness Tips Generator
+
+Suggests hydration reminders, posture breaks, quick workouts.
+Learns preferences (e.g., walking > yoga).
+✅ General Query Handling
+
+Responds to common queries.
+Summarizes weekly/daily agendas concisely.
+<img width="1536" height="1024" alt="prompt 7" src="https://github.com/user-attachments/assets/f8375c89-f145-49ce-80d3-b7db44108d77" />
+
+Result:
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
+
  Understand how to tailor LLM prompts to real-life applications.
+
  Foster creativity by designing features suited to their personal or academic lives.
+
  Learn prompt engineering techniques for optimal interaction with AI tools.
+
  Experience the versatility and utility of generative AI in solving everyday problems.
