@@ -66,7 +66,7 @@ Responds to common queries.
 Summarizes weekly/daily agendas concisely.
 <img width="1536" height="1024" alt="prompt 7" src="https://github.com/user-attachments/assets/f8375c89-f145-49ce-80d3-b7db44108d77" />
 
-Result:
+## Result:
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
 
  Understand how to tailor LLM prompts to real-life applications.
