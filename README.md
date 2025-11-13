@@ -1,13 +1,14 @@
-Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
-Register no:212223060199
-Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
-Apparatus Required
+## Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+## Register no:212223060199
+## Aim:
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+## Apparatus Required
 Python 3.x
 ChatGPT (OpenAI API / Web Interface)
 Command-Line Interface (CLI) or simple chatbot interface
 Text editor (VS Code / PyCharm)
 GitHub for version control and repository upload
-Procedure
+## Procedure
 Define Core Requirements
 
 Daily task management (add, view, delete, prioritize tasks).
